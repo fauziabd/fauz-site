@@ -1,19 +1,18 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "url": "https://www.linkedin.com/"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "url": "https://twitter.com/fauz_io"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "url": "https://www.instagram.com/fauz_io"
+    },
+    {
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UC2NuBnnGAdnnP30vZVhtFNw"
+    }
+  ]
 }
