@@ -2,7 +2,7 @@
   "title": "fauz.io",
   "palette": "blue",
   "header": {
-    "title": "fauz",
+    "title": "fauz.io",
     "logo_img": "",
     "has_nav": true,
     "menu": {
@@ -15,22 +15,16 @@
     }
   },
   "footer": {
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
-    "has_subscribe": true,
-    "social_title": "Community",
-    "tagline": "Work beyond expectation",
-    "logo_img": "/images/illustratic-logo.png",
+    "subscribe_title": "",
+    "subscribe_content": "",
+    "has_subscribe": false,
+    "social_title": "Let's connect",
+    "tagline": "\"Work Beyond Expectations\"",
+    "logo_img": "",
     "has_social": true,
-    "content": "&copy; Stackbit. All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
-    "nav_title": "Company",
+    "content": "",
+    "links": [],
+    "nav_title": "Know more",
     "has_nav": true
   }
 }
