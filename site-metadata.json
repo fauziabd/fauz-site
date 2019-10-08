@@ -2,16 +2,11 @@
   "title": "fauz.io",
   "palette": "blue",
   "header": {
-    "title": "fauz.io",
+    "title": "",
     "logo_img": "",
-    "has_nav": true,
+    "has_nav": false,
     "menu": {
-      "actions": [
-        {
-          "label": "Sign Up",
-          "url": "/signup"
-        }
-      ]
+      "actions": []
     }
   },
   "footer": {
@@ -19,10 +14,10 @@
     "subscribe_content": "",
     "has_subscribe": false,
     "social_title": "Let's connect",
-    "tagline": "\"Work Beyond Expectations\"",
+    "tagline": "",
     "logo_img": "",
     "has_social": true,
-    "content": "",
+    "content": "&copy; fauz.io",
     "links": [],
     "nav_title": "Know more",
     "has_nav": true
