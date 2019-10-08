@@ -2,11 +2,16 @@
   "title": "fauz.io",
   "palette": "blue",
   "header": {
-    "title": "",
+    "title": "Fauz⚡",
     "logo_img": "",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
-      "actions": []
+      "actions": [
+        {
+          "label": "Contact",
+          "url": "/contact"
+        }
+      ]
     }
   },
   "footer": {
